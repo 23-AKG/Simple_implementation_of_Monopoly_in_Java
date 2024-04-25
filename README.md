@@ -1,4 +1,4 @@
-# Simple_implementation_of_Monopoly_in_Java
+# Simple implementation of Monopoly in Java
 # Monopoly Game
 
 This project implements a Java version of the classic Monopoly board game. It offers two versions: a simplified version without JDBC (Java Database Connectivity) and a more complex version involving JDBC for database interaction. 
